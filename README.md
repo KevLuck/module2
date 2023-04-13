@@ -6,7 +6,7 @@ Apply the fundamental abilities previously acquired about flexbox, media queries
 # Built With
 * HTML
 * CSS
-* 
+
 # GitHub Repository Link: 
 https://github.com/KevLuck/module2
 

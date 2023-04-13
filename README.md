@@ -1,7 +1,7 @@
 # Advanced CSS Challenge: Professional Portfolio
 
 # Purpose
-Apply the fundamental abilities previously acquired about flexbox, media queries, and CSS variables to create a portfolio. 
+Apply the fundamental abilities previously acquired about flexbox, media queries, and CSS variables to create a portfolio 
 
 # Built With
 * HTML

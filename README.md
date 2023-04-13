@@ -1,5 +1,5 @@
 # Advanced CSS Challenge: Professional Portfolio
-
+##Apply the fundamental abilities you previously acquired about flexbox, media queries, and CSS variables to create a portfolio. 
 # GitHub Repository Link: https://github.com/KevLuck/module2
 # Website: 
 

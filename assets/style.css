@@ -1,22 +1,19 @@
 body {
     margin: 0;
     background: #222;
-    font-family: "Work Sans" , sans-serif;
+    font-family: "Work Sans", sans-serif;
     font-weight: 400;
-
 }
 
 .container {
     width: 80%;
     margin: 0 auto;
-
 }
 
 header::after {
     content: '';
     display: table;
     clear: both;
-
 }
 
 header {
@@ -32,7 +29,6 @@ header {
     background-attachment: fixed;
     background-position: 0;
     z-index: 9999;
-
 }
 
 h1 {
@@ -41,7 +37,6 @@ h1 {
     font-weight: bolder;
     padding-top: 5px;
     color: #222;
-
 }
 
 nav {
@@ -52,7 +47,6 @@ nav ul {
     margin: 0;
     padding: 0;
     list-style: none;
-
 }
 
 nav li {
@@ -68,7 +62,6 @@ nav a {
     text-transform: uppercase;
     text-decoration: none;
     font-size: 14px;
-
 }
 
 h2 {
@@ -76,7 +69,6 @@ h2 {
     color: #55d6aa;
     text-align: center;
     margin-bottom: 50px;
-
 }
 
 .full {
@@ -84,19 +76,16 @@ h2 {
     color: #55d6aa;
     text-align: center;
     margin-top: -30px;
-
 }
 
 .main {
     margin: 0 150px;
     padding-top: 35px;
-
 }
 
 h3 {
     text-align: center;
     color: #55d6aa;
-
 }
 
 hr {
@@ -109,14 +98,13 @@ hr {
     margin-right: auto;
     padding-top: 10px;
     width: 15%;
-
 }
+
 .intro {
     color: #55d6aa;
     text-align: center;
     font-size: 15px;
     font-weight: bold;
-
 }
 
 .ball {
@@ -125,7 +113,6 @@ hr {
     display: block;
     margin-left: auto;
     margin-right: auto;
-
 }
 
 .sports {
@@ -133,8 +120,8 @@ hr {
     text-align: center;
     font-size: 15px;
     font-weight: bold;
-
 }
+
 .flex-row1 p {
     display: inline-block;
     text-align: justify;
@@ -166,14 +153,16 @@ hr {
 }
 
 .Horiseon {
-    background-image: url("../images/horiseon.png");
-    background-size: contain;
-    width: 55%;
-    height: 528px;
-    margin: 0 1% 2%;
+    background-image: url("../images/getflix.png");
+    padding-left: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 30%;
+    height: 600px;
+    margin-bottom: 2%;
+    margin-left: 0.5%;
     border: #55d6aa 5px solid;
-    position: relative;
-
 }
 
 .Horiseon:hover {
@@ -182,13 +171,15 @@ hr {
 
 .portfolio {
     background-image: url("../images/portfolio.png");
+    padding-left: 300px;
     background-size: cover;
-    width: 47.5%;
-    height: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 30%;
+    height: 400px;
     margin-bottom: 2%;
-    margin-right: 0.5%;
+    margin-left: 0.5%;
     border: #55d6aa 5px solid;
-    position: relative;
 }
 
 .portfolio:hover {
@@ -197,13 +188,15 @@ hr {
 
 .password {
     background-image: url("../images/passwordgen.png");
+    padding-left: 300px;
     background-size: cover;
-    width: 47.5%;
-    height: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 30%;
+    height: 400px;
     margin-bottom: 2%;
     margin-left: 0.5%;
     border: #55d6aa 5px solid;
-    position: relative;
 }
 
 .password:hover {
@@ -211,13 +204,16 @@ hr {
 }
 
 .soon {
-    background-image: url("../images/website.gif");
-    width: 47.5%;
-    height: 300px;
+    background-image: url("../images/horiseon.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-left: 350px;
+    width: 30%;
+    height: 450px;
     margin-bottom: 2%;
-    margin-right: 0.5%;
+    margin-left: 0.5%;
     border: #55d6aa 5px solid;
-    position: relative;
 }
 
 .soon:hover {
@@ -227,15 +223,17 @@ hr {
 .come {
     background-image: url("../images/website.gif");
     background-size: cover;
-    width: 47.5%;
-    height: 300px;
+    padding-left: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 30%;
+    height: 400px;
     margin-bottom: 2%;
     margin-left: 0.5%;
     border: #55d6aa 5px solid;
-    position: relative;
 }
 
-.come {
+.come:hover {
     opacity: 90%;
 }
 
